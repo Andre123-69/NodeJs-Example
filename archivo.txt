@@ -1,0 +1,1 @@
+Hola, este es el contenido del fichero archivo.txt

@@ -1,0 +1,14 @@
+{
+    "name": "ejemplos-de-node",
+    "version": "1.0.0",
+    "description": "Ejemplos y prácticas con módulos nativos y utilidades en Node.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js",
+        "files": "node manage-files.js",
+        "system": "node system-info.js"
+    },
+    "dependencies": {
+        "ms": "^2.1.3"
+    }
+}
